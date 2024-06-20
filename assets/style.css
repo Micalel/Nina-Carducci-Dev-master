@@ -116,7 +116,7 @@ body {
 .nav-pills .show>.nav-link, .nav .nav-link.active {
 
     color: #fff;
-    background-color: #BEB45A;
+    background-color: #92893a;
     border-radius: 0;
 }
 
@@ -124,7 +124,7 @@ body {
 .nav-pills .show > .nav-link:hover,
 .nav .nav-link.active:hover {
     color: #fff;
-    background-color: #BEB45A;
+    background-color: #92893a;
 }
 
 .nav-pills .nav-link {
@@ -134,7 +134,7 @@ body {
 
 .nav-pills .nav-link:hover {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #92893a;
 }
 
 .item-column {
@@ -239,7 +239,7 @@ body {
 
 .picture.right::before {
     content: ' ';
-    background-color: #BEB45A;
+    background-color: #92893a;
     width: 374px;
     height: 329px;
     position: absolute;
@@ -275,7 +275,7 @@ form textarea {
 }
 
 input[type="submit"] {
-    background-color: #BEB45A;
+    background-color: #92893a;
     padding: .5em 1em;
 }
 
