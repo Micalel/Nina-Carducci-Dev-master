@@ -95,21 +95,41 @@ body {
 }
 
 .title{
+
 	text-align: center;
 	padding-block: 2em;
 }
 .gallery .nav {
 	justify-content: center;
 }
+
+
+.nav-link:hover {
+
+	background-color: #BEB45A;	
+	border-radius: .25rem;
+}
+
+
+
+.nav-item .active-tag {
+
+	background-color: #BEB45A;
+
+}
+
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
 	background-color: #BEB45A;
-	border-radius:0 ;
 }
+
 .nav-pills .nav-link {
+
 	color: #000
 }
+
 .item-column {
+	
 	position: relative;
 	margin-bottom: 0 !important;
 	padding: 0;
