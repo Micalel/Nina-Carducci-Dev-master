@@ -108,19 +108,19 @@ body {
 .nav-link {
 
 	color: black;
-	
+
 }
 
 .nav-link:hover {
 
-	background-color: #BEB45A;	
+	background-color: #797639;	
 	color: white;
 	border-radius: .25rem;
 }
 
 .nav-item .active-tag {
 
-	background-color: #BEB45A;
+	background-color: #797639;
 	color: white;
 
 }
