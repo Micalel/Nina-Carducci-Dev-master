@@ -125,6 +125,11 @@ body {
 
 }
 
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: #797639;
+	color: white;
+}
+
 
 .item-column {
 	
